@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to GithubMohizuddin's slide!"
 ---
 
 This is Mohizuddin's slide
